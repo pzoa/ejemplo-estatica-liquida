@@ -1,0 +1,33 @@
+body{
+  background: blue;
+}
+
+.cuerpo{
+  display: flex;
+  margin: auto;
+  width: 1200px;
+}
+.menu{
+  width: 1400px;
+  background: red;
+  height: 50px;
+}
+
+.menu{
+  margin: auto;
+  width: 1200px;
+  background: red;
+  height: 50px;
+}
+
+.cuerpo1{
+  width: 200px;
+  background: green;
+  height: 500px;
+}
+
+.cuerpo2{
+  width: 1000px;
+  background: white;
+  height: 500px;
+}
